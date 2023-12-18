@@ -1,0 +1,7 @@
+X, Y, Shape
+1, 2, Circle
+2, 1, Circle
+4, 5, Square
+5, 4, Square
+10, 11, Rectangle
+11, 10, Rectangle
